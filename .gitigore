@@ -1,0 +1,5 @@
+01-data-cleaning/data/raw/
+01-data-cleaning/data/cleaned/
+.ipynb_checkpoints/
+.pyc
+__pycache__/
